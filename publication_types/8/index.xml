@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Mathilde Emeriau</title>
+    <link>http://web.stanford.edu/~memeriau/publication_types/8/</link>
+    <description>Recent content in 8 on Mathilde Emeriau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://web.stanford.edu/~memeriau/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>French refugee survey</title>
+      <link>http://web.stanford.edu/~memeriau/publication/frenchrefugeesurvey/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://web.stanford.edu/~memeriau/publication/frenchrefugeesurvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration failures: a search for mechanisms</title>
+      <link>http://web.stanford.edu/~memeriau/publication/integrationfailures/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://web.stanford.edu/~memeriau/publication/integrationfailures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
