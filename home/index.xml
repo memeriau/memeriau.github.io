@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Mathilde Emeriau</title>
-    <link>http://web.stanford.edu/~memeriau/home/</link>
+    <link>https://memeriau.github.io/home/</link>
     <description>Recent content in Homes on Mathilde Emeriau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://web.stanford.edu/~memeriau/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://memeriau.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/about/</link>
+      <link>https://memeriau.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/about/</guid>
+      <guid>https://memeriau.github.io/home/about/</guid>
       <description>Welcome! I am a Ph.D. Candidate with an interest in comparative politics and quantitative methodology. My research centers on discrimination and immigrant integration, with a focus on France.
 In my dissertation, I examine who gets refugee status and how do refugees integrate in France using two original data collection. I successfully negotiated an unprecedented research agreement with the French asylum office to collect archival records of over 4,000 asylum applications and survey a representative sample of about 2,000 refugees living in France.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/skills/</link>
+      <link>https://memeriau.github.io/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/skills/</guid>
+      <guid>https://memeriau.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peer-reviewed publications</title>
-      <link>http://web.stanford.edu/~memeriau/home/publications_peer/</link>
+      <link>https://memeriau.github.io/home/publications_peer/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/publications_peer/</guid>
+      <guid>https://memeriau.github.io/home/publications_peer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working papers</title>
-      <link>http://web.stanford.edu/~memeriau/home/publications_workingpapers/</link>
+      <link>https://memeriau.github.io/home/publications_workingpapers/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/publications_workingpapers/</guid>
+      <guid>https://memeriau.github.io/home/publications_workingpapers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ongoing projects</title>
-      <link>http://web.stanford.edu/~memeriau/home/publications_ongoing/</link>
+      <link>https://memeriau.github.io/home/publications_ongoing/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/publications_ongoing/</guid>
+      <guid>https://memeriau.github.io/home/publications_ongoing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://web.stanford.edu/~memeriau/home/teaching/</link>
+      <link>https://memeriau.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/teaching/</guid>
+      <guid>https://memeriau.github.io/home/teaching/</guid>
       <description>Political Methodology III - Stanford University
 Model-based inference in political science. Topics covered will include likelihood-based inference, generalized linear models, discrete choice models, regularization, missing data, latent-variable models, and (a brief introduction to) optimization approaches.
 Instructor: Jens Hainmueller
@@ -74,91 +74,91 @@ Causal inference, i.e. methods designed to address research questions that conce
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/contact/</link>
+      <link>https://memeriau.github.io/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/contact/</guid>
+      <guid>https://memeriau.github.io/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/hero/</link>
+      <link>https://memeriau.github.io/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/hero/</guid>
+      <guid>https://memeriau.github.io/home/hero/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/hero_carousel/</link>
+      <link>https://memeriau.github.io/home/hero_carousel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/hero_carousel/</guid>
+      <guid>https://memeriau.github.io/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/posts/</link>
+      <link>https://memeriau.github.io/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/posts/</guid>
+      <guid>https://memeriau.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/projects/</link>
+      <link>https://memeriau.github.io/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/projects/</guid>
+      <guid>https://memeriau.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/publications/</link>
+      <link>https://memeriau.github.io/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/publications/</guid>
+      <guid>https://memeriau.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/search/</link>
+      <link>https://memeriau.github.io/home/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/search/</guid>
+      <guid>https://memeriau.github.io/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/tags/</link>
+      <link>https://memeriau.github.io/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/tags/</guid>
+      <guid>https://memeriau.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/talks/</link>
+      <link>https://memeriau.github.io/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/talks/</guid>
+      <guid>https://memeriau.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/home/talks_selected/</link>
+      <link>https://memeriau.github.io/home/talks_selected/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/home/talks_selected/</guid>
+      <guid>https://memeriau.github.io/home/talks_selected/</guid>
       <description></description>
     </item>
     

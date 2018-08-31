@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathilde Emeriau on Mathilde Emeriau</title>
-    <link>http://web.stanford.edu/~memeriau/</link>
+    <link>https://memeriau.github.io/</link>
     <description>Recent content in Mathilde Emeriau on Mathilde Emeriau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/~memeriau/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>French refugee survey</title>
-      <link>http://web.stanford.edu/~memeriau/publication/frenchrefugeesurvey/</link>
+      <link>https://memeriau.github.io/publication/frenchrefugeesurvey/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/publication/frenchrefugeesurvey/</guid>
+      <guid>https://memeriau.github.io/publication/frenchrefugeesurvey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integration failures: a search for mechanisms</title>
-      <link>http://web.stanford.edu/~memeriau/publication/integrationfailures/</link>
+      <link>https://memeriau.github.io/publication/integrationfailures/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/publication/integrationfailures/</guid>
+      <guid>https://memeriau.github.io/publication/integrationfailures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to be unbiased: Evidence from the French Asylum Office</title>
-      <link>http://web.stanford.edu/~memeriau/publication/learningtobeunbiased/</link>
+      <link>https://memeriau.github.io/publication/learningtobeunbiased/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/publication/learningtobeunbiased/</guid>
+      <guid>https://memeriau.github.io/publication/learningtobeunbiased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Do Anti-Poverty Programs Sway Voters? Experimental Evidence from Uganda</title>
-      <link>http://web.stanford.edu/~memeriau/publication/doantipovertyprograms/</link>
+      <link>https://memeriau.github.io/publication/doantipovertyprograms/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/publication/doantipovertyprograms/</guid>
+      <guid>https://memeriau.github.io/publication/doantipovertyprograms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>http://web.stanford.edu/~memeriau/post/getting-started/</link>
+      <link>https://memeriau.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/post/getting-started/</guid>
+      <guid>https://memeriau.github.io/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -236,10 +236,10 @@ git submodule update --init --recursive
     
     <item>
       <title></title>
-      <link>http://web.stanford.edu/~memeriau/privacy/</link>
+      <link>https://memeriau.github.io/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.stanford.edu/~memeriau/privacy/</guid>
+      <guid>https://memeriau.github.io/privacy/</guid>
       <description></description>
     </item>
     
