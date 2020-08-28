@@ -31,47 +31,6 @@
     </item>
     
     <item>
-      <title>Peer-reviewed publications</title>
-      <link>https://memeriau.github.io/home/publications_peer/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://memeriau.github.io/home/publications_peer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working papers</title>
-      <link>https://memeriau.github.io/home/publications_workingpapers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://memeriau.github.io/home/publications_workingpapers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ongoing projects</title>
-      <link>https://memeriau.github.io/home/publications_ongoing/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://memeriau.github.io/home/publications_ongoing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://memeriau.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://memeriau.github.io/home/teaching/</guid>
-      <description>Political Methodology III - Stanford University
-Model-based inference in political science. Topics covered will include likelihood-based inference, generalized linear models, discrete choice models, regularization, missing data, latent-variable models, and (a brief introduction to) optimization approaches.
-Instructor: Jens Hainmueller
-Quarter: Spring 2018
-Political Methodology II - Stanford University
-Causal inference, i.e. methods designed to address research questions that concern the impact of some potential cause (e.g. an intervention, a change in institutions,economic conditions, government policies) on some outcome (e.</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://memeriau.github.io/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -127,6 +86,33 @@ Causal inference, i.e. methods designed to address research questions that conce
     
     <item>
       <title></title>
+      <link>https://memeriau.github.io/home/publications_ongoing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://memeriau.github.io/home/publications_ongoing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://memeriau.github.io/home/publications_peer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://memeriau.github.io/home/publications_peer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://memeriau.github.io/home/publications_workingpapers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://memeriau.github.io/home/publications_workingpapers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://memeriau.github.io/home/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -158,6 +144,15 @@ Causal inference, i.e. methods designed to address research questions that conce
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://memeriau.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://memeriau.github.io/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://memeriau.github.io/home/teaching/</guid>
       <description></description>
     </item>
     

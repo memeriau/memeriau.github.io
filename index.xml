@@ -11,42 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Learning to be unbiased: Evidence from the French Asylum Office</title>
-      <link>https://memeriau.github.io/publication/learningtobeunbiased/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://memeriau.github.io/publication/learningtobeunbiased/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Do Anti-Poverty Programs Sway Voters? Experimental Evidence from Uganda</title>
-      <link>https://memeriau.github.io/publication/doantipovertyprograms/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://memeriau.github.io/publication/doantipovertyprograms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>French refugee survey</title>
-      <link>https://memeriau.github.io/publication/frenchrefugeesurvey/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://memeriau.github.io/publication/frenchrefugeesurvey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integration failures: a search for mechanisms</title>
-      <link>https://memeriau.github.io/publication/integrationfailures/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://memeriau.github.io/publication/integrationfailures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://memeriau.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
