@@ -1,0 +1,4 @@
+PWD C:/Hugo/website v2/content/home
+INPUT C:/Users/memeriau/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT C:/Hugo/website v2/content/home/about.md
+OUTPUT C:/Hugo/website v2/content/home/about.log
